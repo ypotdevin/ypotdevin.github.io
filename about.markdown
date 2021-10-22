@@ -1,17 +1,12 @@
 ---
 title: About
+layout: default
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, my name is Yannik Potdevin and I am currently a PhD student of the
+dependable systems group (Prof. Dirk Nowotka) at Kiel University.
+My research interest covers reliable autonomous systems, especially robust
+machine learning.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+In this blog I share interesting research I faced during my work.
